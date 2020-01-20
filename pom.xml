@@ -122,6 +122,7 @@
                     <argLine>
                         --illegal-access=permit
                     </argLine>
+                    <argLine>@{jaCoCoArgLine} -Xmx1024m</argLine>
                 </configuration>
             </plugin>
             <plugin>
